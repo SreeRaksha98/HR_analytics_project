@@ -1,4 +1,4 @@
-﻿# HR Analytics
+﻿# READme
 
 Data visualization project for helping HR in analyzing Employee's data.
 
